@@ -4,7 +4,7 @@ def divisao(a, b):
         return "Erro: divisão por zero"
     return a / b
 
-def percentagem(a, b):
+def percento(a, b):
     return a * (b / 100)
 
 
