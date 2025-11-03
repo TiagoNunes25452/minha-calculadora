@@ -7,5 +7,3 @@ def divisao(a, b):
 def percentagem(a, b):
     return a * (b / 100)
 
-
-
